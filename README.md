@@ -9,7 +9,7 @@ Allows you to install Active Directory tools (Active Directory Users and Compute
 
 ## 🔹 Installation Steps
 
-1. Open **Active Directory**.
+1. Open **Server Manager Dashboard**.
 2. Start the **Add Roles and Features** wizard.
 3. Click *Next* until you reach **Server Roles**, then select **Remote Access**.
    <img src="https://i.imgur.com/htLOkJd.png" height="50%" width="60%"/>
